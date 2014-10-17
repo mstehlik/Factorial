@@ -11,8 +11,7 @@ int fact(int n) {
 
 int main(int argc, char** argv) {
 
-    cout << fact(5);
-    
+    cout << fact(5);    
     return 0;
 }
 
